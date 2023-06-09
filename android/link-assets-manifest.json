@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/circe-bold.ttf",
+      "sha1": "dc9ec86a8a2b4d53aa4e09283c8827af7eba7a21"
+    },
+    {
+      "path": "assets/fonts/circe-extrabold.ttf",
+      "sha1": "fcc739c38034577187ed978cb71cb22cc50360db"
+    },
+    {
+      "path": "assets/fonts/circe-regular.ttf",
+      "sha1": "c29d2fcd18d930e4041b934a9bffa13ca0c7eb6d"
+    },
+    {
+      "path": "assets/fonts/optima-bold.ttf",
+      "sha1": "8e713a6d5230831bd976e6391ba29a968864853f"
+    },
+    {
+      "path": "assets/fonts/optima-cyr.ttf",
+      "sha1": "17ec9405e816fbc6c51d27e47f6778ecd4dc8308"
+    },
+    {
+      "path": "assets/fonts/optima-italic.ttf",
+      "sha1": "cc1ec6a755005f76bfb0f0539bf8fa18931796f1"
+    },
+    {
+      "path": "assets/fonts/optima.ttf",
+      "sha1": "17ec9405e816fbc6c51d27e47f6778ecd4dc8308"
+    },
+    {
+      "path": "assets/fonts/optima_medium.ttf",
+      "sha1": "abab7b462f565a85d1cec0ab048031d05d9eb5e7"
+    }
+  ]
+}
